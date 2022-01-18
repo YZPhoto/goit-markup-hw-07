@@ -1,0 +1,29 @@
+.section-footer{
+ 
+    background: var(--blocks-bg-color);
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+}
+
+.main {
+  align-items: baseline;
+}
+
+.address-thumb {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.logo-white{
+   color: var(--primary-white-color) ;
+    
+}
+.footer-adress {
+  margin-top: 25px;
+  color: var(--primary-white-color);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.71;
+}
